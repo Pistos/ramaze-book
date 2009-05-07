@@ -26,6 +26,6 @@
 :cc-license: http://foo.bar[Creative Commons Attribution-ShareAlike]
 
 // rack links
-:github-rack-contrib: http://github.com/rack/rack-contrib[rack-contrib]
+:github-rack-contrib: http://github.com/rack/rack-contrib[rack-contrib on Github]
 :github-rack: http://github.com/rack/rack[Rack on Github]
-:www-rack: http://rack.rubyforge.orgrack-contrib[rack-contrib on Github]
+:www-rack: http://rack.rubyforge.org[Rack]
